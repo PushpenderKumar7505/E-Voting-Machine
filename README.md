@@ -242,7 +242,7 @@ Login with Registered Credentials
 *B.Tech Computer Science & Engineering — GLA University, Mathura*
 
 [![GitHub](https://img.shields.io/badge/GitHub-PushpenderKumar7505-181717?style=for-the-badge&logo=github)](https://github.com/PushpenderKumar7505)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)][(https://linkedin.com/in/pushpender-kumar)](https://www.linkedin.com/in/pushpender-kumar-5280b7226/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pushpender-kumar-5280b7226/)
 
 *Aspiring DevOps & Cloud Engineer | AWS · Docker · Kubernetes · Jenkins · Terraform · Ansible*
 
